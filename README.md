@@ -1,5 +1,5 @@
-printf
-A simple printf function built by Taiwo Abdulsalam and Shedrack Sunday for Alx software Engineering School.
+# printf
+A simple printf function built by Taiwo Abdulsalam and Pascal Akano for Alx software Engineering School.
 
 #Welcome
 
@@ -63,4 +63,4 @@ write (man 2 write) malloc (man 3 malloc) free (man 3 free) va_start (man 3 va_s
 
 Taiwo Abdulsalam
 
-Shedrack Sunday
+Pascal Akano
